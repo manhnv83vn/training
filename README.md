@@ -1,0 +1,2 @@
+# training
+Ionic training myself
